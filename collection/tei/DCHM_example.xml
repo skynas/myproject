@@ -36,7 +36,7 @@
          <figure>
             <label>Post-It 01</label>
             <figDesc>
-               A photograph of a post-it with a simple example phrase.
+               Just words to see if this is working
             </figDesc>
             <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
             <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>

@@ -7,8 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>DCHM Template</title>
-            <author corresp="#WD">Wout Dillen</author>
-            <principal>Wout Dillen</principal>
+            <author corresp="#WD">Jennie Skynäs</author>
+            <principal>Jennie Skynäs</principal>
          </titleStmt>
          <publicationStmt>
             <publisher>University of Borås</publisher>
@@ -50,7 +50,7 @@
                <hi rend="u">DCHM Template</hi>
             </head>
             <p>
-               A <del>silly</del> <add>small</add> example
+               Nothing <del>to</del> <add>see</add> here
                <lb/>text.
             </p>
       </body>
